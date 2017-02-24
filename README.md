@@ -9,6 +9,6 @@ Credit: "Global Map of El Guatemala ©ISCGM/ Ing. Alfredo Obiols Gomez, Guatemal
 
 Contact: Instituto Geografico Nacional, Ing. Alfredo Obiols Gomez.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/guatemala.png)
+E-mail: ![email](email.png)
 
 URL: http://www.ign.gob.gt/
